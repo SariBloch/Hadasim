@@ -1,0 +1,15 @@
+D:\פרויקטים\Hadasim\Task1\Task1\bin\Debug\net6.0\Task1.exe
+D:\פרויקטים\Hadasim\Task1\Task1\bin\Debug\net6.0\Task1.deps.json
+D:\פרויקטים\Hadasim\Task1\Task1\bin\Debug\net6.0\Task1.runtimeconfig.json
+D:\פרויקטים\Hadasim\Task1\Task1\bin\Debug\net6.0\Task1.dll
+D:\פרויקטים\Hadasim\Task1\Task1\bin\Debug\net6.0\Task1.pdb
+D:\פרויקטים\Hadasim\Task1\Task1\obj\Debug\net6.0\Task1.csproj.AssemblyReference.cache
+D:\פרויקטים\Hadasim\Task1\Task1\obj\Debug\net6.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+D:\פרויקטים\Hadasim\Task1\Task1\obj\Debug\net6.0\Task1.AssemblyInfoInputs.cache
+D:\פרויקטים\Hadasim\Task1\Task1\obj\Debug\net6.0\Task1.AssemblyInfo.cs
+D:\פרויקטים\Hadasim\Task1\Task1\obj\Debug\net6.0\Task1.csproj.CoreCompileInputs.cache
+D:\פרויקטים\Hadasim\Task1\Task1\obj\Debug\net6.0\Task1.dll
+D:\פרויקטים\Hadasim\Task1\Task1\obj\Debug\net6.0\refint\Task1.dll
+D:\פרויקטים\Hadasim\Task1\Task1\obj\Debug\net6.0\Task1.pdb
+D:\פרויקטים\Hadasim\Task1\Task1\obj\Debug\net6.0\Task1.genruntimeconfig.cache
+D:\פרויקטים\Hadasim\Task1\Task1\obj\Debug\net6.0\ref\Task1.dll
